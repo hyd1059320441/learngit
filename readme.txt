@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes og files.
 zhe shi
 Creating a branch is quick!
+zailaiyihang
